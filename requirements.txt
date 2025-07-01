@@ -1,0 +1,19 @@
+
+# requirements.txt
+moviepy
+opencv-python
+torch
+torchaudio
+transformers
+openai-whisper
+realesrgan
+gfpgan
+rembg
+pyzbar
+imageio
+PyQt5
+pyqtgraph
+screeninfo
+pyinstaller
+ffmpeg-python
+keyboard
