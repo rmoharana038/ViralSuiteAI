@@ -42,21 +42,3 @@ if __name__ == '__main__':
     win = ViralSuiteAI()
     win.show()
     sys.exit(app.exec_())
-
-# utils/__init__.py
-# empty file to treat 'utils' as a package
-
-# utils/video_to_shorts.py
-def generate_short_with_captions():
-    print("[Video to Shorts] Generating short clip with captions...")
-    # Placeholder for actual Whisper + ffmpeg-based logic
-
-# utils/watermark_removal.py
-def remove_watermark():
-    print("[Watermark Remover] Auto/manual watermark removal triggered...")
-    # Placeholder for OpenCV + inpainting logic
-
-# utils/upscale.py
-def upscale_media():
-    print("[Upscale] Running Real-ESRGAN on image/video...")
-    # Placeholder for ESRGAN upscaling logic
