@@ -1,4 +1,3 @@
-# main.py
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout
 from utils.video_to_shorts import generate_short_with_captions
