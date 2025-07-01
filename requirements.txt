@@ -1,5 +1,3 @@
-
-# requirements.txt
 moviepy
 opencv-python
 torch
