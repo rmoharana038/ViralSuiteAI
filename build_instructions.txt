@@ -1,0 +1,6 @@
+# build_instructions.txt
+1. Install Python 3.10+
+2. Run: pip install -r requirements.txt
+3. Run app with: python main.py
+4. To build .exe:
+   pyinstaller --noconfirm --onefile --windowed --icon=assets/logo.png main.py
